@@ -1,13 +1,13 @@
-# Dru Daniels' Portfolio #
+# Dru Daniels' Neumorphic Hero Banner #
 
-[View Me Here](https://.com/)
+[Click for Demo](https://master.ds2gxbjlbsv73.amplifyapp.com/)
 
 ## Description: 
 A modern web developer profile to showcase latest projects, ideology, and web dev skills.
 
 ## Tech:
 - Reactjs frontend framework
-- Netflify Hosting
+- Deployed with AWS Amplify
 - Foundation, CSS/SCSS, Flexbox styling
 
 ## Available Scripts
